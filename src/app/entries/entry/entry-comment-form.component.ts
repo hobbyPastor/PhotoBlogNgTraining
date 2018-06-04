@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
     templateUrl: 'entry-comment-form.component.html'
 })
 export class EntryCommentFormComponent {
-    name: string = "Hans Zimmer";
-    comment: string = "Ich bin ein Nazi";
+    name: string = "";
+    comment: string = "";
 }
